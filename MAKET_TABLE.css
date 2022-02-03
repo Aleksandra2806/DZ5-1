@@ -1,0 +1,40 @@
+table {
+    border-collapse: collapse;
+}
+.header {
+    text-align: center; 
+    padding: 20px; 
+    background-color: rgba(0, 183, 255, 0.562);
+    color: blue; 
+    font-weight: bold;
+}
+.menu {
+    background-color: rgb(253, 255, 144); 
+    width: 200px;
+}
+.textmenu {
+    font-weight: bold;
+}
+.maincolumn {
+    background: url(ball.png) right top repeat-y;
+    background-size: 50px 50px;
+}
+.colorwhite {
+    background: rgba(255, 255, 255, 0.7);
+}
+img {
+    float: left; 
+    margin: 10px;
+}
+.textmaincolumn {
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.basement {
+    text-align: center; 
+    padding: 20px; 
+    background-color: rgba(0, 183, 255, 0.562);
+    color: blue; 
+    font-weight: bold;
+}
